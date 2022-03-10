@@ -1,0 +1,16 @@
+# Design: Design crc already active.
+# 
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -work crc -2002  $dsn/src/crc.vhd
+# Compile with File Reorder...
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\My_Designs\crc_project\crc\src\crc.vhd
+# Compile Entity "CRC"
+# Compile Architecture "cond" of Entity "CRC"
+# Top-level unit(s) detected:
+# Entity => CRC
+# Compile success 0 Errors 0 Warnings  Analysis time :  2.0 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].

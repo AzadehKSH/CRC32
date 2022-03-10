@@ -1,0 +1,7 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: c:\My_Designs\crc_project\crc\src\crc.vhd" 
+MESSAGE "Compile Entity "CRC"" 
+MESSAGE "Compile Architecture "cond" of Entity "CRC"" 
+MESSAGE "Top-level unit(s) detected:" 
+MESSAGE "Entity => CRC" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  2.0 [s]" 

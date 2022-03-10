@@ -1,0 +1,25 @@
+timestamp=1452842240348
+
+[~A]
+ModifyID=5
+Version=73
+
+[crc]
+A/cond=21|./../src/crc.vhd|34|1*0
+BinW64/cond=3*0
+I=0*519
+I/cond=0*3719
+M=11|2|vc1|1452842238694|./../src/crc.vhd|0*200*0x1c232f8d1588d0d1c9cb9df9a44214310c104cd6|0*448*0x5eebbfaf24833dd780412b1f91e05209
+M/cond=21|2|vc1|1452842239256|./../src/crc.vhd|0*616*0x8975a6acf404d1f7868a43c20c4d61aed19c6e80|0*3640*0x856b180bf611ec746a6bfcb1befebd18
+R=./../src/crc.vhd|27
+Version=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|489605734b010dd3bcdae7492b260e6b3a4bf1aff37dd37296bb3262d1e5fa59
+Version/cond=10.1.3088.5434  (Windows64)|00000003789cd3f5370600015b00b0|796744436ca093393b5290055b310f5a9a003981fe4c38579a3adff9423be56e
+
+[~MFT]
+0=6|0crc.mgf|3719|0
+1=0|1crc.mgf|0|0
+3=0|3crc.mgf|0|0
+
+[~U]
+crc=CRC 11|0*0|
+
